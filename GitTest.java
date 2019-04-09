@@ -2,7 +2,7 @@
 public class GitTest {
 
 	public static void main(String[] args) {
-		System.out.print("Hello World2!");
+		System.out.print("Hello David!");
 
 	}
 
